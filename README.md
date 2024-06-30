@@ -22,9 +22,7 @@ MONGO_URI=mongodb://localhost:27017/org-app
 
 ```
 
-## Run migration
-
-Run The migration
+## Run Migration
 
 ```bash
 
@@ -32,10 +30,18 @@ Run The migration
 
 ```
 
-## run seeder
+## Run Seeder
 
 ```bash
 
  npm run seed
+
+```
+
+## Start server
+
+```bash
+
+ npm start
 
 ```
